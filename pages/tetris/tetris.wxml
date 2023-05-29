@@ -1,0 +1,6 @@
+<!--pages/tetris.wxml-->
+<view class="container">
+  <view class="background">
+    <text>pages/tetris.wxml</text>
+  </view>
+</view>
